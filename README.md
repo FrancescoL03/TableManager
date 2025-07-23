@@ -13,7 +13,7 @@ The concepts that I focused more are: 
 
 ---
 
- ##Visual Style Disclaimer
+## Visual Stule Disclaimer
  
 All the graphics (floor and tables) were made by me. I’m not an artist, but I did my best. The main focus of the project was the practicing the logic, UI interaction and Java Swing.
 
