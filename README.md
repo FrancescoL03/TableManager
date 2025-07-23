@@ -22,17 +22,17 @@ All the graphics (floor and tables) were made by me. I’m not an artist, but I 
 ## Future improvements
 
 These are some features that could be implemented in the future:
--A counter that shows how many tables are occupied and how many are free
--A button to reset/clear all the tables
--A cleaner and smoother UI layout
+- A counter that shows how many tables are occupied and how many are free
+- A button to reset/clear all the tables
+- A cleaner and smoother UI layout
 
 ---
 
 ## Tecnologies used
 
--Java 23
--Java Swing
--IntelliJ IDEA
+- Java 23
+- Java Swing
+- IntelliJ IDEA
 
 ---
 
