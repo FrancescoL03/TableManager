@@ -5,7 +5,7 @@ This is basic table manager interface where the users can interact with tables t
 ## About the project
 
 I realized this project to consolidate the concepts that I learned during my Object-Oriented Programming (OOP) course, and also to learn new ones. 
-The concepts that I focused more are:  
+The concepts that I focused on the most are:  
 1. `JFrame` and `JPanel`
 2. Drawing a grid layout
 3. Using mouse events and event listeners
