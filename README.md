@@ -1,47 +1,45 @@
 # TableManager
 
-This is a basic table management interface where users can interact with tables in a graphical layout by marking them occupied or free.
+This is basic table manager interface where the users can interact with tables to mark them as free or occupied.
 
-## About the Project
+## About the project
 
-This project was created to consolidate the knowledge I learned during my Object-Oriented Programming (OOP) course and to learn new concepts.
+I realized this project to consolidate the concepts that I learned during my Object-Oriented Programming (OOP) course, and also to learn new ones. 
+The concepts that I focused more are:  
+1. `JFrame` and `JPanel`
+2. Drawing a grid layout
+3. Using mouse events and event listeners
+4. Using collection like `HashSet`
 
-I focused on core concepts like:
-- Managing `JFrame` and custom `JPanel`
-- Drawing a grid-based layout manually using images
-- Handling mouse events and table state with event listeners
-- Using collections like HashSet to manage elements
+—--
 
----
+ ##  Visual Style Disclaimer
+ 
+All the graphics (floor and tables) were made by me. I’m not an artist, but I did my best. The main focus of the project was the practicing the logic, UI interaction and Java Swing.
 
-## Visual Style Disclaimer
+—--
 
-All graphic assets (tables and floor textures) were created by me.  
-They are intentionally simple and minimal — the focus of the project was not on graphic design but on practicing logic, UI interaction, and component rendering in Java Swing.
+## Future improvements
 
----
+These are some features that could be implemented in the future:
+-A counter that shows how many tables are occupied and how many are free
+-A button to reset/clear all the tables
+-A cleaner and smoother UI layout
 
-## Future Improvements
+—--
 
-Here are some features that could be implemented in future versions:
-- A counter that displays how many tables are currently available and occupied
-- A way to reset/clear all table states
-- A cleaner and more professional UI layout
+## Tecnologies used
 
----
-
-## Technologies Used
-
-- Java 23
-- Java Swing
-- IntelliJ IDEA
+-Java 23
+-Java Swing
+-IntelliJ IDEA
 
 ---
 
 ## How to Run
 
 1. Download or clone the repository
-2. Install Java 17+ (I used 23)
-3. Open the project in your IDE (I used IntelliJ)
-4. Make sure that the images (tables.jpeg and floor.png) are in the same folder as the `Main.java`
-5. Compile and Run `Main.java`
+2. If you don’t have it yet install 17+ 
+3. Open the project in your IDE
+4. Make sure the images (tables.jpeg and floor.png) are in the same folder as `Main.java`
+5. Compile and run `Main.java`
