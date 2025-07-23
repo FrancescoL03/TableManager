@@ -39,7 +39,7 @@ These are some features that could be implemented in the future:
 ## How to Run
 
 1. Download or clone the repository
-2. If you don’t have it yet install 17+ 
+2. If you don’t have it yet install Java 17+ 
 3. Open the project in your IDE
 4. Make sure the images (tables.jpeg and floor.png) are in the same folder as `Main.java`
 5. Compile and run `Main.java`
