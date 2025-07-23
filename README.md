@@ -11,13 +11,13 @@ The concepts that I focused more are: 
 3. Using mouse events and event listeners
 4. Using collection like `HashSet`
 
-—--
+---
 
  ##  Visual Style Disclaimer
  
 All the graphics (floor and tables) were made by me. I’m not an artist, but I did my best. The main focus of the project was the practicing the logic, UI interaction and Java Swing.
 
-—--
+---
 
 ## Future improvements
 
@@ -26,7 +26,7 @@ These are some features that could be implemented in the future:
 -A button to reset/clear all the tables
 -A cleaner and smoother UI layout
 
-—--
+---
 
 ## Tecnologies used
 
