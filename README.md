@@ -1,13 +1,13 @@
 # TableManager
 
-This is a basic table management interface where users can interact with tables in a graphical layout by marking them as occupied or free.
+This is a basic table management interface where users can interact with tables in a graphical layout by marking them occupied or free.
 
 ## About the Project
 
 This project was created to consolidate the knowledge I learned during my Object-Oriented Programming (OOP) course and to learn new concepts.
 
 I focused on core concepts like:
-- Managing `JFrame` and custom `JPanel` rendering
+- Managing `JFrame` and custom `JPanel`
 - Drawing a grid-based layout manually using images
 - Handling mouse events and table state with event listeners
 - Using collections like HashSet to manage elements
@@ -43,4 +43,5 @@ Here are some features that could be implemented in future versions:
 1. Download or clone the repository
 2. Install Java 17+ (I used 23)
 3. Open the project in your IDE (I used IntelliJ)
-4. Compile and Run `Main.java`
+4. Make sure that the images (tables.jpeg and floor.png) are in the same folder as the `Main.java`
+5. Compile and Run `Main.java`
